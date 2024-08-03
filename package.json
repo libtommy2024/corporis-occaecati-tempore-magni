@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/corporis-occaecati-tempore-magni",
-  "version": "4.12.87",
+  "version": "4.12.88",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -459,5 +459,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/corporis-occaecati-tempore-magni/issues"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.4.0"
 }
